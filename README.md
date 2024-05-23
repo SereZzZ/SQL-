@@ -1,3 +1,5 @@
+[![Run Gradle Tests In Docker Container CI](https://github.com/SereZzZ/SQL-/actions/workflows/gradle.yml/badge.svg)](https://github.com/SereZzZ/SQL-/actions/workflows/gradle.yml)
+
 # Домашнее задание к занятию «3.2. SQL»
 
 **Важно**: задачи этого занятия не предполагают подключения к CI.
